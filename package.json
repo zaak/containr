@@ -1,0 +1,14 @@
+{
+  "name": "containr",
+  "version": "0.0.1",
+  "description": "Simple service container",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "pawel.wiaderny@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.3.0"
+  }
+}
